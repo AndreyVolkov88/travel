@@ -40,4 +40,4 @@
 
 ________
 ### Опубликованный проект
-Ознакомиться с проектом вы сможете по ссылке [Russian travel](https://github.com/AndreyVolkov88/russian-travel.git).
+Ознакомиться с проектом вы сможете по ссылке [Russian travel](https://andreyvolkov88.github.io/russian-travel/).
