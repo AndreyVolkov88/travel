@@ -1,0 +1,28 @@
+
+  .page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 320px;
+    background-color: #2a2c2f;
+    align-items: center;
+    font-family: 'Inter',sans-serif;
+    font-weight: 400;
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    margin: 0;
+    padding-top: 16px;
+    padding-bottom: 24px;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .page {
+        padding-top: 28px;
+    }
+  }
+  

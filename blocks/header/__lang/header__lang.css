@@ -1,0 +1,7 @@
+ .header__lang{
+
+ }
+    
+.header__lang:first-of-type {
+    margin-right: 18px;
+}

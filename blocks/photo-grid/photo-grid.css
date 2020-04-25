@@ -1,0 +1,37 @@
+@import url("./__item/photo-grid__item.css");
+
+.photo-grid{
+    width: 90%;
+    display: grid;
+    grid-template-columns: minmax(288px, calc(288px*1.5));
+    justify-content: center;
+    grid-gap: 12px;
+}
+  
+@media screen and (min-width: 768px) {
+    .photo-grid {
+        width: 94%;
+        max-width: 928px;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 16px;
+    }
+}
+  
+@media screen and (min-width: 1024px) {
+    .photo-grid {
+        width: 90%;
+        max-width: 1184px;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 14px;
+    }
+}
+  
+@media screen and (min-width: 1280px) {
+    .photo-grid {
+        width: 1184px;
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 16px;
+    }
+}
+  
+

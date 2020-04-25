@@ -1,0 +1,10 @@
+.footer__info {
+    margin-bottom: 48px;
+}
+  
+@media screen and (min-width: 768px) {
+    .footer__info {
+        margin-bottom: 0;
+    }
+}
+  

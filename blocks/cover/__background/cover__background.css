@@ -1,0 +1,6 @@
+.cover__background {
+    background-image: url(../../../images/cover_figma.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-top: 62%;
+}
