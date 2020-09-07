@@ -1,5 +1,5 @@
 ## *Второй проект* 
-# **"Russian travel"**
+# **"[Russian travel](https://andreyvolkov88.github.io/travel/)"**
 ------
 
 ## Описание проекта
@@ -40,4 +40,4 @@
 
 ________
 ### Опубликованный проект
-Ознакомиться с проектом вы сможете по ссылке [Russian travel](https://andreyvolkov88.github.io/russian-travel/).
+Ознакомиться с проектом вы сможете по ссылке [Russian travel](https://andreyvolkov88.github.io/travel/).
